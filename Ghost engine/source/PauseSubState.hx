@@ -57,7 +57,7 @@ class PauseSubState extends MusicBeatSubstate
 	{
 		super();
 		FlxTween.globalManager.active = false;
-		//FlxTimer.globalManager.active = false;
+		FlxTimer.globalManager.active = false;
 
 		add(tweens = new FlxTweenManager());
 
@@ -206,7 +206,7 @@ class PauseSubState extends MusicBeatSubstate
 			var daSelected:String = menuItems[curSelected];
 
 			FlxTween.globalManager.active = true;
-			//FlxTimer.globalManager.active = true;
+			FlxTimer.globalManager.active = true;
 			
 			
 

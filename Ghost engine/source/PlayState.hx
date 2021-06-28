@@ -666,16 +666,19 @@ class PlayState extends MusicBeatState
 
 			fsbyBreaking.frames = Paths.getSparrowAtlas('week1/MimicAppear', 'characters');
 
+			
+
 			defaultCamZoom = 1.4;
 
 			
 			fsbyBreaking.animation.addByPrefix('coming', 'MimicAppear', 24, false);
 
-			fsbyBreaking.animation.play('coming');
+			
 
 			fsbyBreaking.scale.set(1.15, 1.15);
 
 			dad.alpha = .001;
+
 
 			new FlxTimer().start(4.416, function(tmr:FlxTimer){fsbyBreaking.alpha = 0; dad.alpha = 1;}, 1);
 			
@@ -917,11 +920,14 @@ class PlayState extends MusicBeatState
 				case 'reactivated':
 					reactivatedIntro(doof);
 				case 'mimicry':
+					canPause = false;
+
+					fsbyBreaking.animation.play('coming');
 
 					FlxG.sound.play(Paths.sound('MimicScream'));
 					
-					new FlxTimer().start(3.041, function(tmr:FlxTimer){ defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
-
+					new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
+					new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
 				default:
 					startCountdown();
 			}
@@ -931,9 +937,14 @@ class PlayState extends MusicBeatState
 			switch (curSong.toLowerCase())
 			{	
 				case 'mimicry':
+					canPause = false;
+
+					fsbyBreaking.animation.play('coming');
+
 					FlxG.sound.play(Paths.sound('MimicScream'));
 					
-					new FlxTimer().start(3.041, function(tmr:FlxTimer){ defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
+					new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
+					new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
 
 				default:
 					startCountdown();
@@ -1801,6 +1812,15 @@ class PlayState extends MusicBeatState
 				if(curStep == 1488){
 
 					fsby.alpha = 0;
+
+					canPause = false;
+
+					new FlxTimer().start(.666, function(tmr:FlxTimer)
+					{
+						FlxG.sound.play(Paths.sound('Unboxed'), 1);
+					});
+
+					
 
 					FlxG.sound.play(Paths.sound('micThrow'), .5);
 
@@ -3016,6 +3036,7 @@ class PlayState extends MusicBeatState
 	function preEnd():Void{
 		FlxG.sound.music.volume = 0;
 		vocals.volume = 0;
+		canPause = false;
 
 		if (isStoryMode)
 		{
@@ -3031,14 +3052,14 @@ class PlayState extends MusicBeatState
 					add(cutscene);
 				
 				case 'unboxing':
-					FlxG.sound.play(Paths.sound('Unboxed'), .5);
+					
 
-					new FlxTimer().start(2, function(tmr:FlxTimer)
+					new FlxTimer().start(1, function(tmr:FlxTimer)
 						{
 							endSong();
 						});
 
-
+				
 				default:
 					endSong();
 			}
@@ -3047,14 +3068,14 @@ class PlayState extends MusicBeatState
 			switch (curSong.toLowerCase())
 			{
 				case 'unboxing':
-					FlxG.sound.play(Paths.sound('Unboxed'), .5);
+					
 
-					new FlxTimer().start(2, function(tmr:FlxTimer)
+					new FlxTimer().start(1, function(tmr:FlxTimer)
 						{
 							endSong();
 						});
 
-
+				
 				default:
 					endSong();
 			}
