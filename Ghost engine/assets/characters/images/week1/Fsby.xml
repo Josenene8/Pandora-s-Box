@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fsby.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Box DOWN0000" x="0" y="0" width="385" height="445" frameX="0" frameY="-3" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0001" x="0" y="0" width="385" height="445" frameX="0" frameY="-3" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0002" x="385" y="0" width="384" height="447" frameX="0" frameY="-1" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0003" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0004" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0005" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0006" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0007" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0008" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0009" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0010" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0011" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0012" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0013" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0014" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0015" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0016" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0017" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0018" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0019" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0020" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0021" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0022" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0023" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box DOWN0024" x="769" y="0" width="380" height="448" frameX="0" frameY="0" frameWidth="385" frameHeight="448"/>
+	<SubTexture name="Box D Kick0000" x="1149" y="0" width="401" height="460" frameX="0" frameY="-41" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0001" x="1149" y="0" width="401" height="460" frameX="0" frameY="-41" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0002" x="1550" y="0" width="413" height="493" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0003" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0004" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0005" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0006" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0007" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0008" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0009" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0010" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0011" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0012" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0013" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0014" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0015" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0016" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0017" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0018" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0019" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0020" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0021" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0022" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0023" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box D Kick0024" x="1963" y="0" width="413" height="501" frameX="0" frameY="-8" frameWidth="413" frameHeight="501"/>
+	<SubTexture name="Box LEFT0000" x="2376" y="0" width="414" height="572" frameX="0" frameY="0" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0001" x="2376" y="0" width="414" height="572" frameX="0" frameY="0" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0002" x="2790" y="0" width="411" height="570" frameX="-7" frameY="-2" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0003" x="3201" y="0" width="411" height="570" frameX="-11" frameY="-2" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0004" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0005" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0006" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0007" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0008" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0009" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0010" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0011" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0012" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0013" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0014" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0015" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0016" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0017" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0018" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0019" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0020" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0021" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0022" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0023" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box LEFT0024" x="3612" y="0" width="406" height="571" frameX="-17" frameY="-1" frameWidth="423" frameHeight="572"/>
+	<SubTexture name="Box L Kick0000" x="0" y="572" width="428" height="599" frameX="0" frameY="0" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0001" x="0" y="572" width="428" height="599" frameX="0" frameY="0" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0002" x="428" y="572" width="427" height="587" frameX="-6" frameY="-12" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0003" x="855" y="572" width="428" height="588" frameX="-12" frameY="-11" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0004" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0005" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0006" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0007" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0008" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0009" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0010" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0011" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0012" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0013" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0014" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0015" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0016" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0017" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0018" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0019" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0020" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0021" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0022" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0023" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box L Kick0024" x="1283" y="572" width="424" height="590" frameX="-21" frameY="-9" frameWidth="445" frameHeight="599"/>
+	<SubTexture name="Box RIGHT0000" x="1707" y="572" width="393" height="569" frameX="-3" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0001" x="1707" y="572" width="393" height="569" frameX="-3" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0002" x="2100" y="572" width="388" height="569" frameX="-3" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0003" x="2488" y="572" width="386" height="569" frameX="-3" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0004" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0005" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0006" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0007" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0008" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0009" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0010" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0011" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0012" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0013" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0014" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0015" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0016" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0017" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0018" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0019" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0020" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0021" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0022" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0023" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box RIGHT0024" x="2874" y="572" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="Box R Kick0000" x="3261" y="572" width="382" height="581" frameX="-8" frameY="-1" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0001" x="3261" y="572" width="382" height="581" frameX="-8" frameY="-1" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0002" x="3643" y="572" width="378" height="581" frameX="-5" frameY="-1" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0003" x="0" y="1171" width="380" height="582" frameX="-2" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0004" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0005" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0006" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0007" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0008" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0009" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0010" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0011" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0012" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0013" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0014" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0015" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0016" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0017" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0018" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0019" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0020" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0021" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0022" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0023" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box R Kick0024" x="380" y="1171" width="380" height="582" frameX="0" frameY="0" frameWidth="390" frameHeight="582"/>
+	<SubTexture name="Box UP0000" x="760" y="1171" width="408" height="658" frameX="0" frameY="0" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0001" x="760" y="1171" width="408" height="658" frameX="0" frameY="0" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0002" x="1168" y="1171" width="392" height="640" frameX="-8" frameY="-19" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0003" x="1560" y="1171" width="389" height="637" frameX="-9" frameY="-21" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0004" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0005" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0006" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0007" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0008" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0009" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0010" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0011" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0012" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0013" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0014" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0015" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0016" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0017" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0018" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0019" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0020" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0021" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0022" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0023" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box UP0024" x="1949" y="1171" width="383" height="634" frameX="-15" frameY="-25" frameWidth="408" frameHeight="659"/>
+	<SubTexture name="Box U Kick0000" x="2332" y="1171" width="452" height="685" frameX="0" frameY="0" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0001" x="2332" y="1171" width="452" height="685" frameX="0" frameY="0" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0002" x="2784" y="1171" width="422" height="654" frameX="-19" frameY="-32" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0003" x="3206" y="1171" width="420" height="652" frameX="-21" frameY="-33" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0004" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0005" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0006" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0007" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0008" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0009" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0010" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0011" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0012" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0013" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0014" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0015" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0016" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0017" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0018" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0019" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0020" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0021" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0022" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0023" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box U Kick0024" x="3626" y="1171" width="412" height="649" frameX="-26" frameY="-37" frameWidth="452" frameHeight="686"/>
+	<SubTexture name="Box idle dance0000" x="0" y="1856" width="400" height="583" frameX="-6" frameY="-22" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0001" x="400" y="1856" width="400" height="585" frameX="-7" frameY="-20" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0002" x="800" y="1856" width="399" height="586" frameX="-6" frameY="-19" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0003" x="1199" y="1856" width="404" height="598" frameX="-4" frameY="-8" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0004" x="1199" y="1856" width="404" height="598" frameX="-4" frameY="-8" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0005" x="1603" y="1856" width="404" height="598" frameX="-3" frameY="-7" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0006" x="1603" y="1856" width="404" height="598" frameX="-3" frameY="-7" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0007" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0008" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0009" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0010" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0011" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0012" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0013" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0014" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0015" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0016" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box idle dance0017" x="2007" y="1856" width="405" height="605" frameX="0" frameY="0" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box shake0000" x="2412" y="1856" width="402" height="582" frameX="-6" frameY="-25" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0001" x="400" y="1856" width="400" height="585" frameX="-9" frameY="-22" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box shake0002" x="2814" y="1856" width="397" height="586" frameX="-10" frameY="-21" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0003" x="3211" y="1856" width="406" height="598" frameX="-4" frameY="-10" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0004" x="3617" y="1856" width="404" height="597" frameX="-6" frameY="-11" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0005" x="0" y="2461" width="405" height="598" frameX="-4" frameY="-9" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0006" x="1603" y="1856" width="404" height="598" frameX="-5" frameY="-9" frameWidth="408" frameHeight="606"/>
+	<SubTexture name="Box shake0007" x="405" y="2461" width="407" height="604" frameX="0" frameY="-3" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0008" x="812" y="2461" width="404" height="605" frameX="-3" frameY="-2" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0009" x="1216" y="2461" width="405" height="605" frameX="-2" frameY="-2" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0010" x="812" y="2461" width="404" height="605" frameX="-3" frameY="-2" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0011" x="1621" y="2461" width="406" height="605" frameX="-1" frameY="-2" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0012" x="2027" y="2461" width="406" height="606" frameX="-1" frameY="-1" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0013" x="2433" y="2461" width="406" height="605" frameX="-1" frameY="-2" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0014" x="2027" y="2461" width="406" height="606" frameX="-1" frameY="-1" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0015" x="2839" y="2461" width="406" height="607" frameX="-1" frameY="0" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0016" x="3245" y="2461" width="405" height="607" frameX="-2" frameY="0" frameWidth="410" frameHeight="608"/>
+	<SubTexture name="Box shake0017" x="2839" y="2461" width="406" height="607" frameX="-1" frameY="0" frameWidth="410" frameHeight="608"/>
+</TextureAtlas>

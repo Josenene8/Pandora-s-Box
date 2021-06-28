@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boxman ouch.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Box Break0000" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0001" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0002" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0003" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0004" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0005" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0006" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0007" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0008" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0009" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0010" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0011" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0012" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0013" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0014" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0015" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0016" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0017" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0018" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0019" x="0" y="0" width="453" height="679" frameX="-116" frameY="-168" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0020" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0021" x="453" y="0" width="449" height="677" frameX="-129" frameY="-170" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0022" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0023" x="902" y="0" width="463" height="676" frameX="-110" frameY="-166" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0024" x="1365" y="0" width="457" height="677" frameX="-115" frameY="-167" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0025" x="1365" y="0" width="457" height="677" frameX="-115" frameY="-167" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0026" x="1365" y="0" width="457" height="677" frameX="-115" frameY="-167" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0027" x="1365" y="0" width="457" height="677" frameX="-115" frameY="-167" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0028" x="1365" y="0" width="457" height="677" frameX="-115" frameY="-167" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0029" x="1822" y="0" width="572" height="755" frameX="-42" frameY="-92" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0030" x="2394" y="0" width="594" height="769" frameX="-31" frameY="-78" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0031" x="2988" y="0" width="619" height="805" frameX="-19" frameY="-42" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0032" x="2988" y="0" width="619" height="805" frameX="-19" frameY="-42" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0033" x="0" y="805" width="638" height="832" frameX="-10" frameY="-15" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0034" x="0" y="805" width="638" height="832" frameX="-10" frameY="-15" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0035" x="638" y="805" width="657" height="847"/>
+	<SubTexture name="Box Break0036" x="638" y="805" width="657" height="847"/>
+	<SubTexture name="Box Break0037" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0038" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0039" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0040" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0041" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0042" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0043" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0044" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0045" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0046" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0047" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0048" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0049" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0050" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0051" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0052" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0053" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+	<SubTexture name="Box Break0054" x="1295" y="805" width="506" height="717" frameX="-92" frameY="-130" frameWidth="657" frameHeight="847"/>
+</TextureAtlas>
