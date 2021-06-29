@@ -680,7 +680,7 @@ class PlayState extends MusicBeatState
 			dad.alpha = .001;
 
 
-			new FlxTimer().start(4.416, function(tmr:FlxTimer){fsbyBreaking.alpha = 0; dad.alpha = 1;}, 1);
+			new FlxTimer().start(5.416, function(tmr:FlxTimer){fsbyBreaking.alpha = 0; dad.alpha = 1;}, 1);
 			
 
 			add(fsbyBreaking);
@@ -920,14 +920,18 @@ class PlayState extends MusicBeatState
 				case 'reactivated':
 					reactivatedIntro(doof);
 				case 'mimicry':
-					canPause = false;
 
-					fsbyBreaking.animation.play('coming');
+					new FlxTimer().start(1, function(tmr:FlxTimer){
+						canPause = false;
 
-					FlxG.sound.play(Paths.sound('MimicScream'));
-					
-					new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
-					new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
+						fsbyBreaking.animation.play('coming');
+
+						FlxG.sound.play(Paths.sound('MimicScream'));
+						
+						new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
+						new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
+
+				}, 1);
 				default:
 					startCountdown();
 			}
@@ -937,14 +941,17 @@ class PlayState extends MusicBeatState
 			switch (curSong.toLowerCase())
 			{	
 				case 'mimicry':
-					canPause = false;
+					new FlxTimer().start(1, function(tmr:FlxTimer){
+							canPause = false;
 
-					fsbyBreaking.animation.play('coming');
+							fsbyBreaking.animation.play('coming');
 
-					FlxG.sound.play(Paths.sound('MimicScream'));
-					
-					new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
-					new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
+							FlxG.sound.play(Paths.sound('MimicScream'));
+							
+							new FlxTimer().start(3.041, function(tmr:FlxTimer){  defaultCamZoom = 1.05; startCountdown(); FlxTween.tween(FlxG.camera, {zoom: 1.05}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.smoothStepIn});}, 1);
+							new FlxTimer().start(4.41, function(tmr:FlxTimer){ canPause = true; }, 1);
+
+					}, 1);
 
 				default:
 					startCountdown();
@@ -1777,93 +1784,7 @@ class PlayState extends MusicBeatState
 				iconP1.animation.play('bf-old');
 		}
 
-		switch (SONG.song.toLowerCase())
-		{
-			case 'unboxing': 
-				if (curStep == 832 && !fsbyHasChanged)
-				{
-					fsbyHasChanged = true;
-					dad.alpha = 0;
-					
-					fsbyBreaking.animation.play('Break');
-
-					FlxG.sound.play(Paths.sound('crashBox'));
-
-					fsbyBreaking.alpha = 1;
-
-
-					var breakingFsby = new FlxTimer();
-					
-					
-					
-					breakingFsby.start(2.3, function(breakingFsby:FlxTimer){
-						fsby.alpha = 1;
-						remove(fsbyBreaking);
-						
-						iconP2.animation.play('fsby-destroyed');
-
-						//referency thingy idk xdxdxd
-
-						trace('changed fsby');
-					}, 1 );
-
-				}
-
-				if(curStep == 1488){
-
-					fsby.alpha = 0;
-
-					canPause = false;
-
-					new FlxTimer().start(.666, function(tmr:FlxTimer)
-					{
-						FlxG.sound.play(Paths.sound('Unboxed'), 1);
-					});
-
-					
-
-					FlxG.sound.play(Paths.sound('micThrow'), .5);
-
-					fsbyDying.animation.play('Dying');
-
-					
-
-					fsbyDying.alpha = 1;
-
-
-				}
-
-			case 'fragile':
-
-				if(curStep == 1362 && !fsbyHasChanged){  //1362
-
-					fsbyHasChanged = true;
-
-					fsbyBreaking.animation.play('Break');
-
-					FlxG.sound.play(Paths.sound('souljaboyCrank'), .5);
-
-					dad.alpha = 0;
-
-					fsbyBreaking.alpha = 1;
-
-					var breakingFsby = new FlxTimer();
-
-					breakingFsby.start(1.125, function(breakingFsby:FlxTimer){
-						fsby.alpha = 1;
-						remove(fsbyBreaking);
-						
-						iconP2.animation.play('fsby-broken');
-
-						//referency thingy idk xdxdxd
-
-						trace('changed fsby');
-					}, 1 );
-					
-
-
-				}
-		}
+		
 
 		super.update(elapsed);
 
@@ -4220,6 +4141,95 @@ class PlayState extends MusicBeatState
 			// dad.dance();
 		}
 
+		switch (SONG.song.toLowerCase())
+		{
+			case 'unboxing': 
+				if (curStep == 832)
+				{
+					fsbyHasChanged = true;
+					dad.alpha = 0;
+					
+					fsbyBreaking.animation.play('Break');
+
+					FlxG.sound.play(Paths.sound('crashBox'));
+
+					fsbyBreaking.alpha = 1;
+
+
+					var breakingFsby = new FlxTimer();
+					
+					
+					
+					breakingFsby.start(2.3, function(breakingFsby:FlxTimer){
+						fsby.alpha = 1;
+						remove(fsbyBreaking);
+						
+						iconP2.animation.play('fsby-destroyed');
+
+						//referency thingy idk xdxdxd
+
+						trace('changed fsby');
+					}, 1 );
+
+				}
+
+				
+
+				if(curStep == 1488){
+
+					fsby.alpha = 0;
+
+					canPause = false;
+
+					fsbyHasChanged = true;
+
+					
+					FlxG.sound.play(Paths.sound('Unboxed'), .8);
+					
+
+					
+
+					FlxG.sound.play(Paths.sound('micThrow'), .7);
+
+					fsbyDying.animation.play('Dying');
+
+					
+
+					fsbyDying.alpha = 1;
+
+
+				}
+
+			case 'fragile':
+
+				if(curStep == 1362){  //1362
+
+					fsbyBreaking.animation.play('Break');
+
+					FlxG.sound.play(Paths.sound('souljaboyCrank'), .5);
+
+					dad.alpha = 0;
+
+					fsbyBreaking.alpha = 1;
+
+					var breakingFsby = new FlxTimer();
+
+					breakingFsby.start(1.125, function(breakingFsby:FlxTimer){
+						fsby.alpha = 1;
+						remove(fsbyBreaking);
+						
+						iconP2.animation.play('fsby-broken');
+
+						//referency thingy idk xdxdxd
+
+						trace('changed fsby');
+					}, 1 );
+					
+
+
+				}
+		}
+
 
 		// yes this updates every step.
 		// yes this is bad
@@ -4250,6 +4260,8 @@ class PlayState extends MusicBeatState
 	override function beatHit()
 	{
 		super.beatHit();
+
+		
 
 		if (generatedMusic)
 		{
